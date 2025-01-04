@@ -2,16 +2,15 @@
 A modern twist on the classic arcade Centipede game! This project is a feature-rich and challenging rendition of the retro game, offering an engaging experience for players with advanced mechanics like poisonous centipedes and mushrooms that trigger under specific conditions.
 
 # Features 🚀
-Black Poisonous Centipede:
-Introduces an advanced enemy type that increases the game's difficulty.
-Poisonous Mushrooms:
-Special mushrooms that add complexity to the gameplay, appearing under specific conditions.
-Dynamic Gameplay:
-Includes smooth movement mechanics, challenging levels, and progressively tougher challenges.
-Advanced AI Behavior:
-Enemies adapt to the player's actions, making each playthrough unique.
-Retro Aesthetic with Modern Enhancements:
-Combines the charm of the original game with enhanced graphics and features.
+Black Poisonous Centipede: Introduces an advanced enemy type that increases the game's difficulty.
+
+Poisonous Mushrooms: Special mushrooms that add complexity to the gameplay, appearing under specific conditions.
+
+Dynamic Gameplay: Includes smooth movement mechanics, challenging levels, and progressively tougher challenges.
+
+Advanced AI Behavior: Enemies adapt to the player's actions, making each playthrough unique.
+
+Retro Aesthetic with Modern Enhancements: Combines the charm of the original game with enhanced graphics and features.
 
 # Technologies Used 🛠️
 Language: C++
